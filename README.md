@@ -39,7 +39,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Jack-2077/github-readme-activity-graph"><img alt="Jack's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jack-2077&bg_color=0D1117&color=70A4FC&line=BE90F2&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Jack-2077/github-readme-activity-graph"><img alt="Jack's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jack-2077&theme=rogue&bg_color=0D1117&color=70A4FC&line=BE90F2&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
