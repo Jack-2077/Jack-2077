@@ -30,4 +30,4 @@
 ## 📊 My Github Stats
 
 <br/>
-    <a href="https://github.com/Jack-2077/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jack-2077&text_color=70A4FC&title_color=70A4FC&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Jack-2077/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jack-2077&text_color=70A4FC&title_color=70A4FC&icon_color=704A4FC&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
