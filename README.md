@@ -21,11 +21,3 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
  </p>
-<p align="center">
-    <a href="https://github.com/Jack-2077/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jack's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jack-2077&theme=tokyonight&hide_border=true&background=0D1117"/>
-    </a>
-</p>
-
-
-
