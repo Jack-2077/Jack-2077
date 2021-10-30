@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on a **Slack Clone**
+- 🔭 I’m currently working on **Prattle**
 
 - 🌱 I’m currently learning **React**
 
