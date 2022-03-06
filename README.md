@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Prattle**
+- 🔭 I’m currently working on **Spotified**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
