@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Spotified**
+- 🔭 I’m currently working on **Demo-Reel-Showcase**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
