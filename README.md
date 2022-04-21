@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Demo-Reel-Showcase**
+- 🔭 I’m currently working on <a href="https://github.com/Jack-2077/demo-reel-showcase-nextjs">**Demo-Reel-Showcase**</a>
 
 - 🌱 I’m currently learning **NextJS**
 
