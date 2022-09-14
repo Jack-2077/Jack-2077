@@ -1,4 +1,4 @@
-[![Jack's GitHub Banner](./assets/GithubBanner.png)](https://jackjohn.ca/)
+[![Jack's Github Banner](./assets/GitHubBanner.png)](https://jackjohn.ca/)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jack</h1>
 <h3 align="center">👨‍💻Full Stack Developer</h3>
