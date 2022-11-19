@@ -1,1 +1,1 @@
-[![Jack's Github Banner](./assets/GitHubBanner.png)](https://jackjohn.ca/)
+[![Jack's Github Banner](./assets/github.gif)](https://jackjohn.ca/)
